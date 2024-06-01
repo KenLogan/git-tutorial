@@ -3,3 +3,7 @@ in our version history. to do that, use "git add".
 A version in git is known as a "Commit"
 
 lets say we forgot a file and wanted it in a previous commit, we can use "git add .", and then git commit -m "version1" --amend
+
+Vs Code Also has a sourcecontrol/ git button below the magnifying glass that lets you use git add for the version history
+
+git tracks changes, not files
