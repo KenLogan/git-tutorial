@@ -5,9 +5,5 @@ git add . - adds everything to version history under whatever folder your in
 git commit -m "Message of what you did" - this commits a change and you can put a message of what you changed
 
 git config --global user.name - configures your username for your local computer
-git config --global user.email- configures you email for local computer
+git ocnfig --global user.email- configures you email for local computer
 
-git reset "Subject" will take the subject out of the staging area, if we gve it a folder name, it would take all files
-out of folder and subfolders out of staging area.
-
-git reset . will take out everything in cucrrent folder
