@@ -1,0 +1,9 @@
+git init - this commnd creates an empty git repository in the folder and thenit tracks the folder folder for all changes.
+git status- it tells what changes have been made since the previous version
+git add "subject" - adds what you specified to version history
+git add . - adds everything to version history under whatever folder your in
+git commit -m "Message of what you did" - this commits a change and you can put a message of what you changed
+
+git config --global user.name - configures your username for your local computer
+git ocnfig --global user.email- configures you email for local computer
+

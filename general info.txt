@@ -1,0 +1,5 @@
+If git says it has untracked files, that means those files are not inclded in any version history. To fix this, we need to pick which of what we want
+in our version history. to do that, use "git add".
+A version in git is known as a "Commit"
+
+lets say we forgot a file and wanted it in a previous commit, we can use "git add .", and then git commit -m "version1" --amend

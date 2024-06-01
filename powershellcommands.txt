@@ -1,0 +1,2 @@
+ls = list all the files and folders in the current folders
+cd = change directory, means change which folder were in, can start it with Cd ~/"Subject"/"Subject   dont include quotes
